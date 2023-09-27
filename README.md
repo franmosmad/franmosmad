@@ -1,0 +1,6 @@
+- Hello, my name is Francisco Mosquera, my friends call me Isco for short. (Inspired by a spanish football player)
+- 🇻🇪 I was born and raised in Venezuela and moved to the United States in 2015.
+- 👨🏾‍💻 I am a senior at Western Michigan University working towards a Computer Science Bachelor's Degree.
+- 🗣️ I am skilled on Python and Web Development languages mostly, I am currently learning C.
+- 💞️ I am looking forwards to work with others on programming projects
+- 📫 If you want to reach me, you can add me on here and you can message me any questions about collaborations.
